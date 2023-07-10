@@ -4,7 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Logo C++" width="200">
 </p>
 
-Ini adalah program sederhana untuk melakukan pemesanan tiket pesawat. Program ini ditulis dalam bahasa pemrograman C++ dan memungkinkan pengguna untuk memilih tujuan, tanggal keberangkatan, jumlah penumpang, kelas penerbangan, dan maskapai penerbangan.
+Program ini ditulis dalam bahasa pemrograman C++ dan memungkinkan pengguna untuk memilih tujuan, tanggal keberangkatan, jumlah penumpang, kelas penerbangan, dan maskapai penerbangan.
 
 ## Cara Penggunaan
 1. Buka program dan jalankan program di lingkungan pengembangan yang sesuai.
